@@ -1,0 +1,3 @@
+group,customers,orders_post,gmv_post
+Control (holdout),771,1054,88786.28
+Treatment (coupons),2997,6111,471125.23

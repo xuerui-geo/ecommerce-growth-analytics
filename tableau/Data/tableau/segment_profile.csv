@@ -1,0 +1,6 @@
+segment,customers,avg_order_value,orders_per_30d,coupon_share,recency_days,tenure_days,action
+Deal Seekers,2876,67.998,0.319,0.801,9.0,211.0,TARGET: coupons
+Dormant / At-Risk,3330,0.0,0.042,0.002,87.0,211.0,Low-cost win-back
+High-Value Loyal,3247,151.233,0.79,0.189,5.0,211.0,No coupons - VIP perks
+New Potential,892,0.0,0.006,0.0,5.0,43.0,TARGET: first-order coupon
+Window Shoppers,3427,0.0,0.051,0.022,4.0,211.0,Fix product pages first

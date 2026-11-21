@@ -1,0 +1,9 @@
+campaign_id,campaign_name,channel,start_date,end_date,daily_budget
+C01,Brand Keywords,Paid Search,2023-02-01,2023-11-30,900
+C02,Category Keywords,Paid Search,2023-02-01,2023-11-30,1800
+C03,Visitor Retargeting,Display Ads,2023-02-01,2023-11-30,1200
+C04,Interest Audience Prospecting,Display Ads,2023-02-01,2023-11-30,1500
+C05,New Product Launch - Health Food,Smart Campaign,2023-04-01,2023-06-30,1000
+C06,Mega-Sale Livestream Boost,Livestream/Influencer,2023-06-01,2023-06-18,3000
+C07,Singles' Day Livestream Boost,Livestream/Influencer,2023-10-24,2023-11-11,3500
+C08,Segment-Targeted Lookalike,Smart Campaign,2023-09-01,2023-11-30,1500
